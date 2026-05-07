@@ -100,11 +100,6 @@
                 cleard();
             }
         });
-        if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('sw.js')
-      .then(() => console.log('Service Worker Registered'))
-      .catch((err) => console.log('Registration Failed', err));
-  }
     </script>
 </body>
 </html>
