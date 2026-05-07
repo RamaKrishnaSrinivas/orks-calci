@@ -1,7 +1,7 @@
 {
   "name": "orks-calci",
   "short_name": "Calci",
-  "start_url": "/calculator/calculator.html",
+  "start_url": "/calculator/orks.html",
   "display": "standalone",
   "background_color": "#1e293b",
   "theme_color": "#d97706",
