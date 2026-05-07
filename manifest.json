@@ -1,6 +1,6 @@
 {
-  "name": "My Calculator App",
-  "short_name": "Calculator",
+  "name": "orks-calci",
+  "short_name": "Calci",
   "start_url": "/calculator/calculator.html",
   "display": "standalone",
   "background_color": "#1e293b",
